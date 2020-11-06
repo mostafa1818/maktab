@@ -12,6 +12,7 @@ public class Main extends Application {
     public void start(Stage primaryStage) throws Exception{
         System.out.println("");
         System.out.println("a");
+        System.out.println("b");
 
     }
 
